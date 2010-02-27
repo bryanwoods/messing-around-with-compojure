@@ -1,4 +1,4 @@
-(ns example
+(ns test
   (:use compojure))
 
 (defn html-doc
